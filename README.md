@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/screenshot.jpg)
+![](./src/assets/screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/advice-generator-CVSokT9as3)
+- Live Site URL: [Netlify app](https://cosmic-chebakia-a6b8f6.netlify.app/)
 
 ## My process
 
